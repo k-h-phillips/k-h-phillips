@@ -11,6 +11,7 @@
   - cats!!
 
 🌱 I’m currently learning...
+  - mobile app development
   - web development frameworks such as Node.js, Angular, React, Vue, Django
   - best practices in web development for 2024
 
