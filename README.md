@@ -1,14 +1,14 @@
 👋 Hi, I’m @k-h-phillips (Kirsten Phillips)
 
 👀 I’m interested in...
+  - software engineering
   - full stack web development
   - usability
-  - design concepts
-  - website architecture
   - making websites and apps to optimize my life
   - crochet & knit
   - piano
   - heath and fitness
+  - cats!!
 
 🌱 I’m currently learning...
   - web development frameworks such as Node.js, Angular, React, Vue, Django
