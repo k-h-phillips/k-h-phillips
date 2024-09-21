@@ -11,11 +11,11 @@
   - heath and fitness
 
 🌱 I’m currently learning...
-  - web development frameworks such as Node.js, Angular, and React
-  - best practices in web development for 2023
+  - web development frameworks such as Node.js, Angular, React, Vue, Django
+  - best practices in web development for 2024
 
 📫 How to reach me...
-  - LinkedIn: 
+  - LinkedIn: www.linkedin.com/in/kirsten-phillips-06845b15b
   - email: kirstenphillips210@gmail.com
   - phone: (434) 917-0499
 
