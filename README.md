@@ -10,10 +10,9 @@
   - heath and fitness
   - cats!!
 
-🌱 I’m currently learning...
-  - iOS development
-  - web development frameworks such as Node.js, Angular, React, Vue, Django
-  - best practices in web development for 2024
+🌱 I’m currently working on...
+  - my personal website
+  - learning modern web development frameworks
 
 📫 How to reach me...
   - LinkedIn: www.linkedin.com/in/kirsten-phillips-06845b15b
