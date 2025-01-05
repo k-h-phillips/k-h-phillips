@@ -5,10 +5,10 @@
   - full stack web development
   - usability
   - making websites and apps to optimize my life
-  - crochet & knit
+  - crochet, knit, & cross stitching
   - piano
   - heath and fitness
-  - cats!!
+  - my cats
 
 🌱 I’m currently working on...
   - my personal website
