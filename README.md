@@ -4,15 +4,16 @@
   - software engineering
   - full stack web development
   - usability
-  - making websites and apps to optimize my life
+  - making apps to optimize my life
   - crochet, knit, & cross stitching
   - piano
   - heath and fitness
   - my cats
 
 🌱 I’m currently working on...
-  - my personal website
-  - learning modern web development frameworks
+  - integrating AI into my workflows
+  - my personal portfolio
+  - learning more web development frameworks
 
 📫 How to reach me...
   - LinkedIn: www.linkedin.com/in/kirsten-phillips-06845b15b
